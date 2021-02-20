@@ -1,7 +1,7 @@
 ### Hi there 👋
 🌱 I’m currently learning Identity Server 4
-[ ] Id4
-[ ] JWT
+- Id4
+- JWT
 <!--
 **StoneIsDeveloper/StoneIsDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
