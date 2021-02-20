@@ -2,6 +2,12 @@
 🌱 I’m currently learning Identity Server 4
 - Id4
 - JWT
+- SSO 单点登录
+- NOSQL, MongoDB,Redis
+- 消息队列,kafka, RabbitMQ
+- http,gRPC,thrift,protobuf
+- 存储，缓存，消息，搜索，安全，微服务
+- surging微服务
 <!--
 **StoneIsDeveloper/StoneIsDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
