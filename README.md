@@ -1,5 +1,9 @@
 ### Hi there 👋
-🌱 I’m currently learning Identity Server 4
+🌱 I’m currently learning Net Core 6
+
+- [ ] Net Core
+- [ ] Docket
+- [ ] K8S
 - Id4
 - JWT
 - SSO 单点登录
