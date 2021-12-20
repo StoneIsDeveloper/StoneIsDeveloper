@@ -1,6 +1,8 @@
 ### Hi there 👋
 🌱 I’m currently learning Net Core 6
 
+### 设计模式六大原则
+
 - [ ] Net Core
 - [ ] Docket
 - [ ] K8S
